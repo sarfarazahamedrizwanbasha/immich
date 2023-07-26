@@ -39,7 +39,7 @@
     "api:generate": "node ./bin/sync-spec-version.js && bash ./bin/generate-open-api.sh"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.13",
+    "@babel/runtime": "^7.22.6",
     "@nestjs/bullmq": "^1.1.0",
     "@nestjs/common": "^9.2.1",
     "@nestjs/config": "^2.2.0",
