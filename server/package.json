@@ -39,7 +39,7 @@
     "api:generate": "node ./bin/sync-spec-version.js && bash ./bin/generate-open-api.sh"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.13",
+    "@babel/runtime": "^7.26.10",
     "@nestjs/bullmq": "^1.1.0",
     "@nestjs/common": "^9.2.1",
     "@nestjs/config": "^2.2.0",
@@ -78,7 +78,7 @@
     "sanitize-filename": "^1.6.3",
     "sharp": "^0.31.3",
     "thumbhash": "^0.1.1",
-    "typeorm": "^0.3.11",
+    "typeorm": "^0.3.18",
     "typesense": "^1.5.3",
     "ua-parser-js": "^1.0.35"
   },
